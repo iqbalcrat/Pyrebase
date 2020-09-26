@@ -18,7 +18,7 @@ pip install pyrebase
 
 Pyrebase was written for python 3 and will not work correctly with python 2.
 
-### Add Pyrebase to your application
+### Add Pyrebase to your project
 
 For use with only user based authentication we can create the following configuration:
 
